@@ -20,5 +20,5 @@ Contains:
 - pFBA notebook: for the pFBA analyses showed in the paper.
 
 ## model folder
-Contains Yeast9 GEM from the yeast-GEM: The consensus genome-scale metabolic model of Saccharomyces cerevisiae GitHub. https://github.com/sysbiochalmers/yeast-gem
+Contains Yeast9 GEM from the yeast-GEM GitHub: https://github.com/sysbiochalmers/yeast-gem
 

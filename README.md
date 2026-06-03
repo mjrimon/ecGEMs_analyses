@@ -9,7 +9,7 @@ Contains:
     - The predicted kcat dictionaries for the tools: CataPro, CatPred, DLKcat, MMKcat, TurNuP, UniKP.
     - The 10 kcat dictionaries from the CatPred results.
     - "mean" kcat dictionary.
-    - Experimental kcat dictionary extracted from GECKO github: https://github.com/SysBioChalmers/GECKO/tree/main/databases
+    - Experimental kcat dictionary extracted from GECKO GitHub: https://github.com/SysBioChalmers/GECKO/tree/main/databases
 - List of all predicted kcats.
 - List of all reactions from Yeast9.
 - The database used as input for the different kcat prediction tools.
@@ -18,4 +18,7 @@ Contains:
 Contains:
 - Growth notebook: For the construction of the ecGEMs with the different kcat dictionaries and their subsequent analyses plus the enviromental constrained GEM.
 - pFBA notebook: for the pFBA analyses showed in the paper.
+
+## model folder
+Contains Yeast9 GEM from the yeast-GEM: The consensus genome-scale metabolic model of Saccharomyces cerevisiae GitHub. https://github.com/sysbiochalmers/yeast-gem
 

@@ -22,3 +22,4 @@ Contains:
 ## model folder
 Contains Yeast9 GEM from the yeast-GEM GitHub: https://github.com/sysbiochalmers/yeast-gem
 
+10.5281/zenodo.20530153

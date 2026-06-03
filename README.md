@@ -1,5 +1,5 @@
 # ecGEMs_analyses
-In this repository you will find all the data and code necessary to construct and analyze the ecGEMs used in the paper: 
+In this repository you will find all the data and code needed to construct and analyze the ecGEMs used in the paper: 
 
 "Are machine-learning \kcat predictors ready for systems biology applications? Benchmark performance does not reliably translate into improved enzyme-constrained metabolic models".
 

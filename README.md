@@ -1,7 +1,5 @@
 # ecGEMs_analyses
-In this repository you will find all the data and code needed to construct and analyze the ecGEMs used in the paper: 
-
-"Are machine-learning \kcat predictors ready for systems biology applications? Benchmark performance does not reliably translate into improved enzyme-constrained metabolic models".
+In this repository, you will find all the data and code needed to construct and analyse the Yeast9 ecGEMs based on Kcat predictions obtained using various different tools. This initial approach can be consulted here: https://github.com/jlott/kcat-prediction-benchmarking.
 
 ## data folder
 Contains:

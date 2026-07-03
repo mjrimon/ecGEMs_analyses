@@ -1,5 +1,5 @@
 # ecGEMs_analyses
-In this repository, you will find all the data and code needed to construct and analyse the Yeast9 ecGEMs based on Kcat predictions obtained using various different tools. This initial approach can be consulted here: https://github.com/jlott/kcat-prediction-benchmarking.
+In this repository, you will find all the data and code needed to construct and analyze the Yeast9 ecGEMs based on Kcat predictions obtained using several different tools. This initial approach can be consulted here: https://github.com/jlott/kcat-prediction-benchmarking.
 
 ## data folder
 Contains:

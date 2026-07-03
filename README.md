@@ -15,7 +15,7 @@ Contains:
 ## code folder
 Contains:
 - Growth notebook: For the construction of the ecGEMs with the different kcat dictionaries and their subsequent analyses plus the enviromental constrained GEM.
-- pFBA notebook: for the pFBA analyses showed in the paper.
+- pFBA notebook: for the pFBA analyses.
 
 ## model folder
 Contains Yeast9 GEM from the yeast-GEM GitHub: https://github.com/sysbiochalmers/yeast-gem

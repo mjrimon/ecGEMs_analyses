@@ -5,17 +5,20 @@ In this repository, you will find all the data and code needed to construct and 
 Contains:
 - Folder "yeast" with:
     - The predicted kcat dictionaries for the tools: CataPro, CatPred, DLKcat, MMKcat, TurNuP, UniKP.
-    - The 10 kcat dictionaries from the CatPred results.
     - "mean" kcat dictionary.
     - Experimental kcat dictionary extracted from GECKO GitHub: https://github.com/SysBioChalmers/GECKO/tree/main/databases
 - List of all predicted kcats.
 - List of all reactions from Yeast9.
 - The database used as input for the different kcat prediction tools.
+- Molecular weights dictionary
+- Results of pFBA for all tools
+- Results from the random analysis
 
 ## code folder
 Contains:
 - Growth notebook: For the construction of the ecGEMs with the different kcat dictionaries and their subsequent analyses plus the enviromental constrained GEM.
 - pFBA notebook: for the pFBA analyses.
+- Scripts for the different plots
 
 ## model folder
 Contains Yeast9 (v9.0.2) GEM from the yeast-GEM GitHub: https://github.com/sysbiochalmers/yeast-gem
